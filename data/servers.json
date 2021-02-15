@@ -1,0 +1,130 @@
+{
+    "servers": [
+        {
+            "url": "\/bbb\/",
+            "active": "true",
+            "status": "on",
+            "responseTime": "0.0415552",
+            "lastOnline": "2021-02-08 00:25:10",
+            "lastOffline": null,
+            "lastCheck": "2021-02-08 00:25:10"
+        },
+        {
+            "url": "\/moodle\/login\/index.php",
+            "active": "true",
+            "status": "on",
+            "responseTime": "0.0832591",
+            "lastOnline": "2021-02-08 00:25:06",
+            "lastOffline": "2021-02-06 21:00:26",
+            "lastCheck": "2021-02-08 00:25:06"
+        },
+        {
+            "url": "\/moodle\/",
+            "active": "true",
+            "status": "on",
+            "responseTime": "0.0645618",
+            "lastOnline": "2021-02-08 00:25:06",
+            "lastOffline": "2021-02-06 21:05:06",
+            "lastCheck": "2021-02-08 00:25:06"
+        },
+        {
+            "url": "\/start\/",
+            "active": "true",
+            "status": "on",
+            "responseTime": "0.1378770",
+            "lastOnline": "2021-02-08 00:25:06",
+            "lastOffline": "2021-02-06 21:05:06",
+            "lastCheck": "2021-02-08 00:25:06"
+        },
+        {
+            "url": "\/v1\/my\/",
+            "active": "true",
+            "status": "on",
+            "responseTime": "1.2296591",
+            "lastOnline": "2021-02-08 00:25:08",
+            "lastOffline": "2021-02-06 21:00:27",
+            "lastCheck": "2021-02-08 00:25:08"
+        },
+        {
+            "url": "\/v1\/",
+            "active": "true",
+            "status": "on",
+            "responseTime": "0.2168970",
+            "lastOnline": "2021-02-08 00:25:06",
+            "lastOffline": "2021-02-06 21:00:26",
+            "lastCheck": "2021-02-08 00:25:06"
+        },
+        {
+            "url": "\/v2\/my\/",
+            "active": "true",
+            "status": "on",
+            "responseTime": "1.2522831",
+            "lastOnline": "2021-02-08 00:25:12",
+            "lastOffline": null,
+            "lastCheck": "2021-02-08 00:25:12"
+        },
+        {
+            "url": "\/v2\/",
+            "active": "true",
+            "status": "on",
+            "responseTime": "0.7173059",
+            "lastOnline": "2021-02-08 00:25:11",
+            "lastOffline": null,
+            "lastCheck": "2021-02-08 00:25:11"
+        },
+        {
+            "url": "\/v3\/my\/",
+            "active": "true",
+            "status": "on",
+            "responseTime": "1.1044860",
+            "lastOnline": "2021-02-08 00:25:09",
+            "lastOffline": "2021-02-06 21:00:28",
+            "lastCheck": "2021-02-08 00:25:09"
+        },
+        {
+            "url": "\/v3\/",
+            "active": "true",
+            "status": "on",
+            "responseTime": "0.1988561",
+            "lastOnline": "2021-02-08 00:25:06",
+            "lastOffline": "2021-02-06 21:00:26",
+            "lastCheck": "2021-02-08 00:25:06"
+        },
+        {
+            "url": "\/v4\/my\/",
+            "active": "true",
+            "status": "on",
+            "responseTime": "0.9804370",
+            "lastOnline": "2021-02-08 00:25:13",
+            "lastOffline": null,
+            "lastCheck": "2021-02-08 00:25:13"
+        },
+        {
+            "url": "\/v4\/",
+            "active": "true",
+            "status": "on",
+            "responseTime": "0.2074280",
+            "lastOnline": "2021-02-08 00:25:11",
+            "lastOffline": null,
+            "lastCheck": "2021-02-08 00:25:11"
+        },
+        {
+            "url": "\/osz\/my\/",
+            "active": "true",
+            "status": "on",
+            "responseTime": "1.0306561",
+            "lastOnline": "2021-02-08 00:25:10",
+            "lastOffline": "2021-02-06 21:00:29",
+            "lastCheck": "2021-02-08 00:25:10"
+        },
+        {
+            "url": "\/osz\/",
+            "active": "true",
+            "status": "on",
+            "responseTime": "0.1848850",
+            "lastOnline": "2021-02-08 00:25:07",
+            "lastOffline": "2021-02-06 21:00:26",
+            "lastCheck": "2021-02-08 00:25:07"
+        }
+    ]
+}
